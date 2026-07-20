@@ -1,0 +1,187 @@
+Couldn't load file 'Data/Scripts/ByteCode/GlobalCode.bin'
+Couldn't load file 'Data/Scripts/ByteCode/GS000.bin'
+Loaded File 'Data/Game/GameConfig.bin'
+Opened audio device: 2
+Loaded File 'Data/Game/GameConfig.bin'
+Loaded File 'Data/SoundFX/Global/Jump.wav'
+Set Global SFX (0) name to: Jump
+Loaded File 'Data/SoundFX/Global/Ring.wav'
+Set Global SFX (1) name to: Ring
+Loaded File 'Data/SoundFX/Global/Ring.wav'
+Set Global SFX (2) name to: Ring
+Loaded File 'Data/SoundFX/Global/Skidding.wav'
+Set Global SFX (3) name to: Skidding
+Loaded File 'Data/SoundFX/Global/LoseRings.wav'
+Set Global SFX (4) name to: LoseRings
+Loaded File 'Data/SoundFX/Global/Hurt.wav'
+Set Global SFX (5) name to: Hurt
+Loaded File 'Data/SoundFX/Global/Charge.wav'
+Set Global SFX (6) name to: Charge
+Loaded File 'Data/SoundFX/Global/Release.wav'
+Set Global SFX (7) name to: Release
+Loaded File 'Data/SoundFX/Global/Destroy.wav'
+Set Global SFX (8) name to: Destroy
+Loaded File 'Data/SoundFX/Global/LampPost.wav'
+Set Global SFX (9) name to: LampPost
+Loaded File 'Data/SoundFX/Global/BlueShield.wav'
+Set Global SFX (10) name to: BlueShield
+Loaded File 'Data/SoundFX/Global/Spring.wav'
+Set Global SFX (11) name to: Spring
+Loaded File 'Data/SoundFX/Global/Future.wav'
+Set Global SFX (12) name to: Future
+Loaded File 'Data/SoundFX/Global/Past.wav'
+Set Global SFX (13) name to: Past
+Loaded File 'Data/SoundFX/Global/TimeWarp.wav'
+Set Global SFX (14) name to: TimeWarp
+Loaded File 'Data/SoundFX/Global/SignPost.wav'
+Set Global SFX (15) name to: SignPost
+Loaded File 'Data/SoundFX/Global/ScoreAdd.wav'
+Set Global SFX (16) name to: ScoreAdd
+Loaded File 'Data/SoundFX/Global/ScoreTotal.wav'
+Set Global SFX (17) name to: ScoreTotal
+Loaded File 'Data/SoundFX/Global/SpecialRing.wav'
+Set Global SFX (18) name to: SpecialRing
+Loaded File 'Data/SoundFX/Global/SpecialWarp.wav'
+Set Global SFX (19) name to: SpecialWarp
+Loaded File 'Data/SoundFX/Global/1Up.wav'
+Set Global SFX (20) name to: 1Up
+Loaded File 'Data/SoundFX/Global/Achievement.wav'
+Set Global SFX (21) name to: Achievement
+Loaded File 'Data/SoundFX/Global/Explosion.wav'
+Set Global SFX (22) name to: Explosion
+Loaded File 'Data/SoundFX/Global/MenuButton.wav'
+Set Global SFX (23) name to: MenuButton
+Loaded File 'Data/SoundFX/Global/Flying.wav'
+Set Global SFX (24) name to: Flying
+Loaded File 'Data/SoundFX/Global/Tired.wav'
+Set Global SFX (25) name to: Tired
+Loaded File 'Data/SoundFX/Global/OuttaHere.wav'
+Set Global SFX (26) name to: OuttaHere
+Loaded File 'Data/SoundFX/Global/Select.wav'
+Set Global SFX (27) name to: Select
+Loaded File 'Data/Palettes/MasterPalette.act'
+Set Object (0) name to: Blank Object
+Couldn't find file 'videos/intro.ogv'!
+Loading Scene Regular Stages - PALMTREE PANIC ZONE 1 A
+Loaded File 'Data/Palettes/MasterPalette.act'
+Set Object (0) name to: Blank Object
+Loaded File 'Data/Stages/R11A/StageConfig.bin'
+Loaded File 'Data/Game/GameConfig.bin'
+Set Object (1) name to: Player Object
+Set Object (2) name to: Stage Setup
+Set Object (3) name to: HUD
+Set Object (4) name to: ActFinish
+Set Object (5) name to: Death Event
+Set Object (6) name to: Tails Object
+Set Object (7) name to: Pause Menu
+Set Object (8) name to: Ring
+Set Object (9) name to: Lose Ring
+Set Object (10) name to: Ring Sparkle
+Set Object (11) name to: Monitor
+Set Object (12) name to: Broken Monitor
+Set Object (13) name to: Red Spring
+Set Object (14) name to: Yellow Spring
+Set Object (15) name to: LampPost
+Set Object (16) name to: Future Post
+Set Object (17) name to: Past Post
+Set Object (18) name to: SignPost
+Set Object (19) name to: Goal Post
+Set Object (20) name to: Special Ring
+Set Object (21) name to: Spikes
+Set Object (22) name to: Smoke Puff
+Set Object (23) name to: Explosion
+Set Object (24) name to: Dust Puff
+Set Object (25) name to: Blue Shield
+Set Object (26) name to: Invincibility
+Set Object (27) name to: Warp Star
+Set Object (28) name to: Time Warp
+Set Object (29) name to: Warp Sonic
+Set Object (30) name to: Transporter
+Set Object (31) name to: MSProjector
+Set Object (32) name to: Object Score
+Set Object (33) name to: Debug Mode
+Couldn't load file 'Data/Scripts/ByteCode/GlobalCode.bin'
+Loaded File 'Data/Stages/R11A/StageConfig.bin'
+Set Object (34) name to: TitleCard
+Set Object (35) name to: Rock
+Set Object (36) name to: Anton
+Set Object (37) name to: Mosqui
+Set Object (38) name to: PataBata
+Set Object (39) name to: Kamemusi
+Set Object (40) name to: Bullet
+Set Object (41) name to: TagaTaga
+Set Object (42) name to: Fall Platform
+Set Object (43) name to: Small Platform
+Set Object (44) name to: Horz Platform
+Set Object (45) name to: Vert Platform
+Set Object (46) name to: Diag Platform
+Set Object (47) name to: Rise Platform
+Set Object (48) name to: Flip Door
+Set Object (49) name to: Invisible Block
+Set Object (50) name to: Spinning Top
+Set Object (51) name to: Log Interior
+Set Object (52) name to: Crumble Ledge 1
+Set Object (53) name to: Crumble Ledge 2
+Set Object (54) name to: Crumble Ledge 3
+Set Object (55) name to: Crumble Ledge 4
+Set Object (56) name to: Breakable Wall
+Set Object (57) name to: Bounce Pole
+Set Object (58) name to: Tube Switch
+Set Object (59) name to: Tile Trigger L
+Set Object (60) name to: Tile Trigger V
+Set Object (61) name to: Tile Trigger H
+Set Object (62) name to: Flower
+Set Object (63) name to: Swing Platform
+Set Object (64) name to: Amy Rose
+Set Object (65) name to: Love Heart
+Set Object (66) name to: 3D Ramp
+Set Object (67) name to: Star Bush
+Set Object (68) name to: Boost Spinner
+Set Object (69) name to: Background FX
+Set Object (70) name to: PaletteAnimation
+Set Object (71) name to: Tunnel Path
+Set Object (72) name to: Waterfall Splash
+Set Object (73) name to: Blue Bird
+Set Object (74) name to: Squirrel
+Set Object (75) name to: Time Warp Fix
+Set Object (76) name to: Attract Mode
+Couldn't load file 'Data/Scripts/ByteCode/R11A.bin'
+Loaded File 'Data/SoundFX/Stage/Crumble.wav'
+Set Stage SFX (0) name to: Crumble
+Loaded File 'Data/SoundFX/Stage/Shot.wav'
+Set Stage SFX (1) name to: Shot
+Loaded File 'Data/SoundFX/Stage/Jab.wav'
+Set Stage SFX (2) name to: Jab
+Loaded File 'Data/SoundFX/Stage/Giggle.wav'
+Set Stage SFX (3) name to: Giggle
+Loaded File 'Data/SoundFX/Stage/Door.wav'
+Set Stage SFX (4) name to: Door
+Loaded File 'Data/Stages/R11A/16x16Tiles.gif'
+Loaded File 'Data/Stages/R11A/16x16Tiles.gif'
+Loaded File 'Data/Stages/R11A/CollisionMasks.bin'
+Loaded File 'Data/Stages/R11A/Backgrounds.bin'
+Loaded File 'Data/Stages/R11A/128x128Tiles.bin'
+Loaded File 'Data/Stages/R11A/Act1.bin'
+Native objects bound: 76, UNBOUND: 0
+Loaded File 'Data/Animations/Sonic.Ani'
+Loaded File 'Data/Sprites/Players/Sonic1.gif'
+Loaded File 'Data/Sprites/Players/Sonic2.gif'
+Loaded File 'Data/Sprites/Players/Sonic3.gif'
+Loaded File 'Data/Sprites/Players/Sonic4.gif'
+Loaded File 'Data/Sprites/Global/Display.gif'
+Loaded File 'Data/Sprites/Global/Pause_EN.gif'
+Loaded File 'Data/Sprites/Global/Items.gif'
+Loaded File 'Data/Sprites/Global/Items2.gif'
+Couldn't load file 'Data/Game/Credits_Console.txt'
+Loaded File 'Data/Sprites/Global/Items3.gif'
+Loaded File 'Data/Sprites/R1/Objects.gif'
+Loaded File 'Data/Sprites/R1/Objects2.gif'
+Loaded File 'Data/Sprites/R1/Objects3.gif'
+Loaded File 'Data/Music/JP/R1A.ogg'
+Reloading Scene Regular Stages - PALMTREE PANIC ZONE 1 A
+Loaded File 'Data/Stages/R11A/128x128Tiles.bin'
+Loaded File 'Data/Stages/R11A/Act1.bin'
+Native objects bound: 76, UNBOUND: 0
+Loaded File 'Data/Animations/Sonic.Ani'
+Couldn't load file 'Data/Game/Credits_Console.txt'
+Loaded File 'Data/Music/JP/R1A.ogg'
